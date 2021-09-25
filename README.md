@@ -23,3 +23,10 @@ Desenvolvimento do Projeto Integrador de Computação I
 - *Luiz Henrique Paiva Branco, 1808913*
 - *Pérola Rosa da Silva,* *2007697*
 - *Wesley Paulo Gonçalves, 1904072*
+
+
+
+#### Requisitos:
+
+- Python 3.9.5
+- Django 3.2.7
