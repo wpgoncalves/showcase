@@ -1,3 +1,5 @@
+# Arquivado em: 14/10/2021. Projeto continua em desenvolvimento em https://github.com/wpgoncalves/digital-retail.git
+
 # Vitrine Digital <img src="assets/brand.png" style="height:50px;" />
 Desenvolvimento do Projeto Integrador de Computação I
 
